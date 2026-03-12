@@ -6,7 +6,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
@@ -42,35 +41,25 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS
+- CSS custom properties
 - Flexbox
-- Google Fonts (Young Serif, Outfit)
-- `::marker` for list styling
+- Responsive layout with media queries
+- Google Fonts (Fraunces, Montserrat)
 
 ### What I learned
 
-- Using `::marker` makes it easy to style list bullets and numbering without extra markup.
-- `border-collapse` helps create clean, simple table dividers without double borders.
-- Pairing `100vh` with `100svh` improves vertical centering on mobile browsers.
+- A small breakpoint change can make a big difference for mobile layout and readability.
 
 ### Continued development
 
-- Refine responsive typography with `clamp()` for smoother scaling.
-- Add focus styles for links to improve keyboard accessibility.
-- Experiment with CSS custom properties to make theme changes faster.
+- Swap in the mobile product image at small breakpoints.
+- Improve accessibility with visible focus styles and better contrast checks.
+- Refine typography scaling using `clamp()` for smoother responsiveness.
 
-### Useful resources
+### Useful resource
 
-- [MDN: ::marker](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker) - Clear examples for styling list markers.
-- [MDN: border-collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse) - Helped clean up the table borders.
-- [MDN: min-height](https://developer.mozilla.org/en-US/docs/Web/CSS/min-height) - Useful for responsive layout decisions.
-
-### AI Collaboration
-
-- Used Codex to troubleshoot CSS spacing, list styling, and table borders.
-- Asked for quick explanations of layout choices (flex vs. grid) to confirm best practices.
+- [Google Fonts](https://fonts.google.com/) - Used to load Fraunces and Montserrat.
 
 ## Author
 
 - Frontend Mentor - [@BOYWIDASTEEZ](https://www.frontendmentor.io/profile/BOYWIDASTEEZ)
-
