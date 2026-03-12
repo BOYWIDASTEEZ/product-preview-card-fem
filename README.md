@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ('https://github.com/BOYWIDASTEEZ/recipe-main-page-fem.git')
+- Solution URL: ('https://github.com/BOYWIDASTEEZ/product-preview-card-fem.git')
 - Live Site URL: ('https://recipe-main-page-fem.vercel.app/)
 
 ## My process
